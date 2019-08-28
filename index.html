@@ -1,58 +1,60 @@
 <!DOCTYPE html>
-<html lang="en" dir="ltr">
-  <head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Ghanaian-culture</title>
-    <script type="text/javascript" src="script.js"></script>
-    <link rel="stylesheet" href="styles.css" type="text/css">
-  </head>
-  <body>
-    <div class="container">
-      <div id="overlay">
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Ghanian-culture</title>
+  <link rel="stylesheet" href="styles.css" type="text/css">
+</head>
+<body>
+  <div class="container">
+    <div id="overlay">
 
-        <h1><img src="https://steemitimages.com/DQmQf5wzEd59xvG6rcucb9Bcn3R7VGRYLi5hYwYR8JQjvEW/africa-1297148_640.png" width="50px" height="50px">Ghanaian-culture.</h1>
-        <div class="culture">
-          <div class="intro">
-            <p><strong>Ghanaian-culture is an application based on akan and how they name their generation and it takes a user's birthday and calculates the day of the week they were born and then depending on their gender outputs their Akan Name.Akan names are derived from Ghanian culture. Frequently in Ghana, children are given their first name as a 'day name' which corresponds to the day in the week they were born.</strong></p>
+      <h1><img src="https://steemitimages.com/DQmQf5wzEd59xvG6rcucb9Bcn3R7VGRYLi5hYwYR8JQjvEW/africa-1297148_640.png" width="50px" height="50px">Ghanaian-culture.</h1>
+      <div class="culture">
+        <div class="intro">
+              <p><strong>Ghanaian-culture is an application based on akan and how they name their generation and it takes a user's birthday and calculates the day of the week they were born and then depending on their gender outputs their Akan Name.Akan names are derived from Ghanian culture. Frequently in Ghana, children are given their first name as a 'day name' which corresponds to the day in the week they were born.</strong></p>
 
-            <p><strong>Surprised enough? Why don't you try and get a look of you name today!</strong></p>
-            <div id="list">
+              <p><strong>Surprised enough? Why don't you try and get a look of you name today!</strong></p>
+                <div id= "list">
+                  <div>
+                <h3>Male</h3>
+                  <ul>
+                    <li><strong>Sunday</strong>: Kwasi</li>
+                    <li><strong>Monday</strong>: Kwadwo</li>
+                    <li><strong>Tuesday</strong>: Kwabena</li>
+                    <li><strong>Wednesday</strong>: Kwaku</li>
+                    <li><strong>Thursday</strong>: Yaw</li>
+                    <li><strong>Friday</strong>: Kofi</li>
+                    <li><strong>Saturday</strong>: Kwame</li>
 
-              <div>
-              <h2>Male</h2>
-                <ul>
-                  <li><strong>Sunday:Kwasi</strong></li>
-                  <li><strong>Monday: Kwadwo<strong></li>
-                  <li><strong>Tuesday: Kwabena</strong></li>
-                  <li><strong>Wednesday: Kwaku</strong></li>
-                  <li><strong>Thursday:  Yaw</strong></li>
-                  <li><strong>Friday: Kofi</strong></li>
-                  <li><strong>Saturday: Kwame</strong></li>
-                </ul>
-                </div>
+                  </ul></div>
 
-                <div>
+                  <div>
                   <h3>Female</h3>
                   <ul>
-                    <li><strong>Sunday : Akosua</strong></li>
-                    <li><strong>Monday : Adwoa</strong></li>
-                    <li><strong>Tuesday: Abenaa</strong></li>
-                    <li><strong>Wednesday: Akua</strong></li>
-                    <li><strong>Thursday: Yaa</strong></li>
-                    <li><strong>Friday : Afua</strong></li>
-                    <li><strong>Saturday: Ama</strong></li>
-                  </ul>
-                  </div>
+                    <li><strong>Sunday</strong>: Akosua</li>
+                    <li><strong>Monday</strong>: Adwoa</li>
+                    <li><strong>Tuesday</strong>: Abenaa</li>
+                    <li><strong>Wednesday</strong>: Akua</li>
+                    <li><strong>Thursday</strong>: Yaa</li>
+                    <li><strong>Friday</strong>: Afua</li>
+                    <li><strong>Saturday</strong>: Ama</li>
 
-                  <h4>Input your details in the form below.</h4>
-                   <div class="f1">
-             <form name="G-culture"  method="post">
-               <h4>Age</h4>
-                  <div id="Ghana">
+                  </ul></div>
+                </div>
+            </div>
+
+
+              <div>
+          <h2>Fill in the following form</h2>
+            <div class="f1">
+             <form name="akanName"  method="post">
+               <h3>Age</h3>
+                  <div id="you">
                       <label for="century">Century:</label>
-                        <input type="number" name="century" id="century" placeholder="eg.19" required>
+                        <input type="number" name="century" id="century" placeholder="eg.19">
                       <label for="year">Year:</label>
                         <input type="number" name="year" id="year" placeholder="YY" required >
                       <label for="month">Month:</label>
@@ -60,34 +62,32 @@
                       <label for="day">Day:</label>
                         <input type="number" name="day" id="day" placeholder="DD" required>
                   </div>
-
-                  <h5>Gender</h5>
-                  <div id="radio">
-                    <label for="Male">Male</label>
-                    <input type="radio" name="gender" id="male" value="male" required>
-                    <br><br>
-                    <label for="Female">Female</label>
-                    <input type="radio" name="gender" id="female" value="female" required>
-
-                  </div>
-                  <br><br>
-                  <button type="submit" id="submit" onclick="G-culture();calc()"submit>submit</button>
-                  <br><br>
-                  <button type="reset" name="reset">reset</button>
-
-
+                      <br><br>
+                   <h3>Gender</h3>
+                    <div id="radio">
+                      <label for="male">Male</label>
+                        <input type="radio" name="gender" id="male" value="male" required>
+                            <br><br>
+                      <label for="female">Female</label>
+                        <input type="radio" name="gender" id="female" value="female" required>
+                    </div>
+                        <br><br>
+                <button type="submit" id="submit" onclick="akanNames();calc()">Submit</button>
+                        <br><br>
+                <button type="reset" name="reset">Reset</button>
               </div>
+              </div>
+              </form>
             </div>
-            <footer> <p>Copyright {c} 2019 moringa school</p></footer>
-
-
-          </div>
-
+            <footer id="right">
+             <p>All rights reserved Copyright (c) 2019 Brian</p>
+           </footer>
         </div>
-
       </div>
+      </body>
+      <script type="text/javascript" src="script.js">
 
-    </div>
+      </script>
 
-  </body>
+</body>
 </html>
