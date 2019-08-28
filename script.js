@@ -28,7 +28,7 @@ function akanNames(){
 
 
       };
-    } alert("Guess what?????")
+    } alert("Hey checkout your name")
   }
 
 
