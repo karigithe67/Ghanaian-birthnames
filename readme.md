@@ -20,7 +20,7 @@ Atom.
 Ubuntu Terminal.
 
 ## Support and contact details
-This application runs well on fully functioned servers and incase of any changes, you can proceed and identify the mistakes.
+This application runs well on fully functioned servers and in case of any changes, you can proceed and identify the mistakes.
 ### License
 M.I.T License.
 
