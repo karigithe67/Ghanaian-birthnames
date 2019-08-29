@@ -1,5 +1,5 @@
 # Ghanaian-birthnames.
-#### Ghanaian lifeline is an application is an uprising technological application whereby it tells the Age,Day and also year from when we were born.
+#### Ghanaian-birthnames is an application is an uprising technological application whereby it tells the Age,Day and also year from when we were born.
 ## August 19th 2019
 #### By: JEFF K KARIGITHE.
 
