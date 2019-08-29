@@ -21,6 +21,9 @@ Ubuntu Terminal.
 
 ## Support and contact details
 This application runs well on fully functioned servers and in case of any changes, you can proceed and identify the mistakes.
+
+For more enquiries please contact:
+cephalo67@gmail.com
 ### License
 M.I.T License.
 
