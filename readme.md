@@ -4,7 +4,7 @@
 #### By: JEFF K KARIGITHE.
 
 ## Description
-{The reason as to why Ghanaian lifeline was created was because of the culture the heritage and the people.Ghana is known as the gateway to Africa and since it is cultured, it is the only country where the names of a new generation is given to correspond to the day in the week they were born and also These names are also used among Ghanaians living abroad and among Africans living in the diaspora who wish to identify with their ancestral homeland.
+{The reason as to why Ghanaian-birthnames was created was because of the culture the heritage and the people.Ghana is known as the gateway to Africa and since it is cultured, it is the only country where the names of a new generation is given to correspond to the day in the week they were born and also These names are also used among the Ghana living abroad and among Africans living in the diaspora who wish to identify with their ancestral homeland.
 
 ## Setup/Installation Requirement
 This is a fully stacked operating application and does not need any modification but feel free to update any changes, if found one.
