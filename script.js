@@ -91,5 +91,5 @@ function akanNames(){
         alert("You were born on Saturday and your Akan name is Ama");
 
       }
-    } alert("Fun!!!! right????")
+    } alert("Thank you for using Ghanaian culture...Have a good day")
   }
