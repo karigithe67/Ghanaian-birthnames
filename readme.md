@@ -13,7 +13,12 @@ This is a fully stacked operating application and does not need any modification
 As per now there are currently no bugs in the application although there were some technicalities but they were fixed.
 
 ## Technologies Used
-The languages i used in my project included mostly the HTML,CSS and JavaScript.
+Hyper Text Markup Language.
+Cascading style-sheets.
+JavaScript.
+Atom.
+Ubuntu Terminal.
+
 ## Support and contact details
 This application runs well on fully functioned servers and incase of any changes, you can proceed and identify the mistakes.
 ### License
