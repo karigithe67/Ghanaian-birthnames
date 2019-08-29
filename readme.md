@@ -9,6 +9,8 @@
 ## Setup/Installation Requirement
 This is a fully stacked operating application and does not need any modification but feel free to update any changes, if found one.
 
+To get the application go to https://github.com/karigithe67/Ghanaian-birthnames to help yourself.
+
 ## Known Bugs
 As per now there are currently no bugs in the application although there were some technicalities but they were fixed.
 
