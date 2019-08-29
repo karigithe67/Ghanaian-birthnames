@@ -1,7 +1,8 @@
 # Ghanaian-birthnames.
 #### Ghanaian-birthnames is an application is an uprising technological application whereby it tells the Age,Day and also year from when we were born.
 ## August 19th 2019
-#### By: JEFF K KARIGITHE.
+
+#### Written By: JEFF K KARIGITHE.
 
 ## Description
 {The reason as to why Ghanaian-birthnames was created was because of the culture the heritage and the people.Ghana is known as the gateway to Africa and since it is cultured, it is the only country where the names of a new generation is given to correspond to the day in the week they were born and also These names are also used among the Ghana living abroad and among Africans living in the diaspora who wish to identify with their ancestral homeland.
